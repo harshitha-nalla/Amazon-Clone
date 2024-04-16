@@ -1,0 +1,251 @@
+
+  *{ 
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    box-sizing: border-box;
+  }
+
+.navbar{
+    background-color: #0f1111;
+    color:white;
+    height:60px;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+    /* .nav-logo{
+      height:50px;
+      width:100px;
+    } */
+    .logo{
+        background-image: url("amazonlogo.webp ");
+        background-size: cover;
+        height:50px;
+        width:100px;
+    }
+    #heropage{
+      width: 100vw;
+
+    }
+    .heropage{
+      background-image: url("republic.jpg");
+      width:100vw;
+      height:50vh;
+      background-size:cover;
+    }
+    .add1{
+      font-size:0.85rem;
+      color:#cccccc;
+      margin-left:10px;
+    }
+    .add2{
+      margin-left:3px;
+    }
+    .navbar{
+      border:2px solid transparent;
+    }
+    .bor:hover{
+      border:1.5px solid white;
+    }
+    .search{
+      margin-left:25px;
+       background-color:#febd68; 
+      width:620px;
+      height:40px;
+      display: flex;
+      border-radius: 4px;
+      align-items:center;
+    }
+    .sel{
+      background-color: #f3f3f3;
+     height:100%;
+     border-top-left-radius: 4px;
+     border-bottom-left-radius: 4px;
+     border:none;
+    }
+    .in{
+       height:40px;
+       border: none;
+      width:100%;
+      border-radius: 4px;
+          
+    }
+    .sea{
+     color:#0f1111;
+      width:45px;
+      border-top-right-radius: 4px;
+      border-bottom-right-radius: 4px;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #febd68;
+      
+    }
+    .flag{
+      display: flex;
+      font-weight: 600;
+    }
+    .hello{
+      font-size: 12px;
+      font-weight: 600;
+    }
+    .acc{
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .r{
+      font-size: 12px;
+      font-weight: 600;
+    }
+    .o{
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .cart{
+      display: flex;
+      font-weight: 600;
+    }
+    .panel{
+      background-color:#222f3d ;
+      height:40px;
+      color: white;
+      align-items: center;
+      justify-content: space-evenly;
+      display: flex;
+
+    }
+    .line{
+      display: flex;
+      font-weight: 600;
+    }
+    .shop{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      background-color: rgb(185, 219, 185);
+
+    }
+    .box{
+      margin-top: 10px;
+      height:400px;
+      width:23%;
+      background-color: white;
+      padding: 20px 0px 15px;
+      
+
+    }
+    .ima{
+      height: 300px;
+       background-size: cover; 
+    }
+    .content{
+      margin-left: 15px;
+      margin-right: 15px;
+    }
+    .ima{
+      margin-top: 10px;
+      margin-bottom:10px ;
+    }
+    .see{
+      color: blue;
+    }
+    .end{
+      background-color: #37475a;
+      color:white;
+      height:50px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 0.85rem;
+     
+    }
+    .info{
+      background-color: #222f3d;
+      color: white;
+      height:400px;
+      display:flex;
+      justify-content: space-evenly;
+    }
+    .hea{
+      font-weight: 600;
+      font-size: 17px;
+     padding: 10px;
+    }
+    .bo{
+      margin-left: 10px;;
+      font-size: 15px;
+    }
+    .lan{
+      background-color:  #222f3d;
+      color: white;
+      border-top: 0.5px solid;
+      height:100px;
+      display:flex;
+      justify-content: center;
+      align-items: center;
+
+    }
+    
+    .ia{
+      background-image: url("amazonlogo.webp ");
+      background-size: cover;
+      height:50px;
+      width:100px;
+  }
+  .eng{
+    border:1px solid;
+    padding:10px;
+    margin-left: 70px;
+  }
+    .la{
+      background-color:  #222f3d;
+      color: white;
+      font-size: 0.8rem;
+      height:50px;
+      display: flex;
+      justify-content: space-evenly;
+    }
+    .pa4{
+      background-color: #09080a;
+      color: white;
+      height: 170px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      display: grid;
+    grid-template-columns: repeat(4,1fr);
+      
+    }
+    .h{
+      color: white;;
+      margin-left: 20px;
+      padding-top: 20px;
+      font-size:0.9rem ;
+      font-weight: 500;
+    }
+    .b{
+      color:gray;
+      margin-left: 20px;
+      font-size: 0.8rem;
+    }
+    .last{
+      background-color:#09080a ;
+      color: white;
+      height:100px;
+      font-size: 0.9rem;
+    }
+    .c1{
+      padding-top: 30px;;
+      margin-left:530px;
+
+    }
+    .c2{
+      margin-left:570px;
+    }
+
+    footer > a {
+      text-decoration: none;
+    }
+
+    
